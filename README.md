@@ -2,7 +2,9 @@
 
 Have you ever played with a RPG book "You are the hero" ?
 
-I found some pdf, i try to parse them and make it an api
+I found some pdf, i parsed them into exploitable json
+
+check in `out/`
 
 ____
 
@@ -43,7 +45,7 @@ to get a usable json like :
 
 You can now display the game with something like this
 (just to get an idea)
-```
+```python
 
 print(book.json['1'])
 
