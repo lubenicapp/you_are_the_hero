@@ -59,6 +59,6 @@ print(book.json['1']['options']
 
 next = get_user_input() # 15
 
-print(book.json['next'])
+print(book.json[next])
 
 ```
