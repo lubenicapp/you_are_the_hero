@@ -4,8 +4,6 @@ Have you ever played with a RPG book "You are the hero" ?
 
 I found some pdf, i parsed them into exploitable json
 
-check in `out/`
-
 ____
 
 
